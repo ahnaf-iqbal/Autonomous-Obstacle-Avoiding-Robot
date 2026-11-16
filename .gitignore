@@ -1,0 +1,21 @@
+# System and OS Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Temporary & Build Outputs
+*.tmp
+*.temp
+*.bak
+*~
+__pycache__/
+*.py[cod]
+*$py.class
+*.vvp
+*.vcd
+
+# Simulation outputs
+frames/
+crop_*.jpg
