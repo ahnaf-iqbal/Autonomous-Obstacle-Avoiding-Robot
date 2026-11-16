@@ -37,8 +37,7 @@ An autonomous mobile robotic platform designed and built for **CSE260: Digital L
 ├── LICENSE                             # MIT Open-Source License
 ├── docs/
 │   ├── LAB_PROJECT_REPORT.pdf          # Full BRAC University CSE Lab Report (PDF)
-│   ├── WIRING_AND_CIRCUIT_GUIDE.pdf    # Pin-to-pin wiring manual & truth tables (PDF)
-│   └── brac_logo.png                   # Official BRAC University crest
+│   └── WIRING_AND_CIRCUIT_GUIDE.pdf    # Pin-to-pin wiring manual & truth tables (PDF)
 ├── media/
 │   ├── hardware_prototype.jpg          # High-resolution photo of assembled robot
 │   ├── demo_video.mp4                  # Demonstration video of robot navigating arena
