@@ -36,9 +36,7 @@ An autonomous mobile robotic platform designed and built for **CSE260: Digital L
 ├── .gitignore                          # Git ignore configuration
 ├── LICENSE                             # MIT Open-Source License
 ├── docs/
-│   ├── LAB_PROJECT_REPORT.md           # Full BRAC University CSE Lab Report (Markdown)
 │   ├── LAB_PROJECT_REPORT.pdf          # Full BRAC University CSE Lab Report (PDF)
-│   ├── WIRING_AND_CIRCUIT_GUIDE.md     # Pin-to-pin wiring manual & truth tables (Markdown)
 │   ├── WIRING_AND_CIRCUIT_GUIDE.pdf    # Pin-to-pin wiring manual & truth tables (PDF)
 │   └── brac_logo.png                   # Official BRAC University crest
 ├── media/
@@ -110,7 +108,7 @@ Standard IR sensors output **HIGH (1)** when clear, and switch to **LOW (0)** up
 | **L298N `OUT1 & OUT2`** | Left TT DC Motor | Left Drive Wheel |
 | **L298N `OUT3 & OUT4`** | Right TT DC Motor | Right Drive Wheel |
 
-*See [WIRING_AND_CIRCUIT_GUIDE.md](docs/WIRING_AND_CIRCUIT_GUIDE.md) for full instructions.*
+*See [WIRING_AND_CIRCUIT_GUIDE.pdf](docs/WIRING_AND_CIRCUIT_GUIDE.pdf) for full instructions.*
 
 ---
 
@@ -158,7 +156,7 @@ If using an Arduino Uno instead of pure logic gates:
 ## 📄 Academic Project Report
 
 The complete academic lab report adhering to BRAC University CSE Department standards is available at:
-👉 **[LAB_PROJECT_REPORT.md](docs/LAB_PROJECT_REPORT.md)**
+👉 **[LAB_PROJECT_REPORT.pdf](docs/LAB_PROJECT_REPORT.pdf)**
 
 ---
 
